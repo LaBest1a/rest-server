@@ -1,0 +1,23 @@
+{
+  "name": "github_actividad1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaBest1a/rest-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaBest1a/rest-server/issues"
+  },
+  "homepage": "https://github.com/LaBest1a/rest-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
